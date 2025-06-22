@@ -24,6 +24,7 @@ At its core, RL is made up of:
 - **Policy** – The agent’s strategy for choosing actions  
 
 ---
+![Reinforcement Learning Loop](https://github.com/Nobi004/blogs/raw/main/reinforcement_learning/RL.jpg)
 
 ## 🎮 Real-Life Analogy: Playing a Video Game
 
