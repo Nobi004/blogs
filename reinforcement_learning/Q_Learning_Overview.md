@@ -38,7 +38,7 @@ Over time, the agent learns a **Q-table**, mapping every situation (state) to th
 
 ---
 
-![Q-Learning Flow](https://raw.githubusercontent.com/Nobi004/blogs/main/reinforcement_learning/RL.jpg)
+![Q-Learning Flow](https://github.com/Nobi004/blogs/blob/main/reinforcement_learning/Q_Learning_flow_graph.png)
 
 ---
 
