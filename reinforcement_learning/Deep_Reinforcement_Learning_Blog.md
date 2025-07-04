@@ -22,6 +22,7 @@ In **DRL**, neural networks are used to **approximate functions** like:
 By combining these, DRL allows agents to learn in **complex, high-dimensional** environments (e.g., games, robotics, finance).
 
 ---
+![Deep Reinforcement Learning](images/DeepRL_Image.png)
 
 ## 🎮 Real-Life Analogy: Learning to Drive a Car
 
